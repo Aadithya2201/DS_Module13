@@ -17,8 +17,8 @@ To write a C function to evaluate the given prefix expression using stack and pr
 ```
 /*
 Program to evaluate the given prefix expression
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: AADITHYA R 
+RegisterNumber: 212223240001
 */
 #include<stdio.h> #include<string.h> #include<ctype.h>
 int s[50]; int top=0;
